@@ -28,7 +28,7 @@ paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "shortname"
+disqusShortname = "keiichiroy"
 
 
 [permalinks]
@@ -40,8 +40,8 @@ tag = "tags"
 topic = "topics"
 
 [author]
-name = "yourname"
-email = "yourname@example.com"
+name = "Keiichiro Yamamoto"
+email = "k.yanmar@gmail.com"
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -52,7 +52,7 @@ name = "paper"
 
 [params.popover]
 # This is a highly configurable popover form.
-enablepopover = true #enable or disable popover: true/false.
+enablepopover = false #enable or disable popover: true/false.
 posturl = "https://zapier.com/hooks/catch/1227563/" # Your zapier post hook.
 headerimage = "//placehold.it/1000x600"
 expirecookie = 5 #show it again after number of days to visitors that has not subscribed.
@@ -74,8 +74,8 @@ optin = true #opt-in: true/false
 switchlang = false
 # You can use markdown here.
 BrandImage = "http://blog.appernetic.io/images/apperneticlogo.png" #top header brand image.
-brand = "My awsome blog" # brand image alt text.
-topline = "few words about your site"
+brand = "Turn around, still Red." # brand image alt text.
+topline = "Challange on DevOps"
 footline = "code with <i class='fa fa-heart'></i>"
 
 customJS = []
@@ -99,12 +99,12 @@ highlight = "default"
 googleAnalytics = "Your Google Analytics tracking code"
 
 # Sidebar social links.
-github = "Myprofile" # Your Github profile ID
+github = "keiichiroy" # Your Github profile ID
 bitbucket = "" # Your Bitbucket profile ID
-linkedin = "" # Your LinkedIn profile ID (from public URL)
-googleplus = "Myprofile" # Your Google+ profile ID
-facebook = "Myprofile" # Your Facebook profile ID
-twitter = "Myprofile" # Your Twitter profile ID
+linkedin = "keiichiro-yamamoto-5128369a" # Your LinkedIn profile ID (from public URL)
+googleplus = "" # Your Google+ profile ID
+facebook = "" # Your Facebook profile ID
+twitter = "" # Your Twitter profile ID
 youtube = ""  # Your Youtube channel ID
 flattr = ""  # populate with your flattr uid
 
@@ -137,8 +137,8 @@ extensionmask = []
 [Languages.en]
 languageCode = "en"
 weight = 1
-copyright = "(c) 2016 Copyright my blog"
-title = "My blog" # Site title
+copyright = "(c) 2017 Copyright @keiichiroy"
+title = "Turn around, still Red." # Site title
 
 [[Languages.en.menu.main]]
 name = "Blog"
