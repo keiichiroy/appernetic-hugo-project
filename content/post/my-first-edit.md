@@ -1,8 +1,7 @@
 +++
-date = "2017-06-01T21:54:53+09:00"
+date = "2017-09-27T23:46:00+09:00"
 draft = false
 title = "my first edit"
 
 +++
-
-最初の投稿。
+This is the first and test post using Hugo, appernetic.
