@@ -73,7 +73,7 @@ optin = true #opt-in: true/false
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
 switchlang = false
 # You can use markdown here.
-BrandImage = "http://res.cloudinary.com/di3dx6lny/image/upload/v1506526254/title_logo_wno3ed.png" #top header brand image.
+BrandImage = "http://res.cloudinary.com/di3dx6lny/image/upload/v1506526454/title_logo_owusx7.png" #top header brand image.
 brand = "Turn around, Still red." # brand image alt text.
 topline = "Challange on DevOps"
 footline = "code with <i class='fa fa-heart'></i>"
