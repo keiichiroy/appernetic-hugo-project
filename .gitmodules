@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/keiichiroy/keiichiroy.github.io
 	branch = master
+[submodule "themes/hugo-bootstrap-premium"]
+	path = themes/hugo-bootstrap-premium
+	url = https://github.com/appernetic/hugo-bootstrap-premium
